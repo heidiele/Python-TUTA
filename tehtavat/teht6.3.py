@@ -1,4 +1,4 @@
-# 1 gallona = 3.785 litraa
+#1 gallona = 3.785 litraa
 
 def muunnos(g):
     l = g * 3.785
